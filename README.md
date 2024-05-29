@@ -1,2 +1,2 @@
-# docker_templats
+# docker-templats
 Templates for docker.
